@@ -15,7 +15,7 @@ This is the assignment given in the **"JavaScript Full Stack Web Developer Bootc
 ### 📌 Overview 
 
 
-![PROJECT-SCREENSHOT](./vishal-shade-up-netlify.png)
+![PROJECT-SCREENSHOT](./vishal-shade-up.netlify.app_.png)
 
 
 ### 📌 What I Learn
